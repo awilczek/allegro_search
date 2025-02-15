@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Allegro Better Search",
+  "description": "Extension improving search in allegro.pl",
+  "version": "0.1",
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "script.js"
+      ],
+      "matches": [
+        "https://allegro.pl/*"
+      ]
+    }
+  ]
+}
