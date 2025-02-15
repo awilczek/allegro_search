@@ -6,6 +6,7 @@ Allegro is a great portal, however they made it hard to search anything there wi
 
 #### Preview:
 Click on:
+
 ![button](./button.png)
 
 to open the subpage internally:
